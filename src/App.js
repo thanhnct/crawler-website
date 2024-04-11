@@ -81,7 +81,7 @@ const Blog = () => {
           </Grid>
         </main>
       </Container>
-      <Footer title="Footer" description="Demo Crawler System" />
+      <Footer title="Footer" description="Demo Crawler System 1" />
     </ThemeProvider>
   );
 };
